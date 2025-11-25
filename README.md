@@ -12,6 +12,8 @@ Desenvolvedora apaixonada por tecnologia, aprendizado contínuo e criação de s
 ![Git](https://img.shields.io/badge/Git-0B2545?style=for-the-badge&logo=git&logoColor=white&labelColor=0B2545)
 ![GitHub](https://img.shields.io/badge/GitHub-0B2545?style=for-the-badge&logo=github&logoColor=white&labelColor=0B2545)
 ![VS Code](https://img.shields.io/badge/VSCode-0B2545?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4&labelColor=0B2545)
+
+![Snake animation](https://github.com/giovaleriano/giovaleriano/blob/main/snake.svg)
 <!--
 **giovaleriano/giovaleriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
