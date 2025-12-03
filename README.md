@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
 </p>
 
-### Contatos:
+### Conecte-se comigo:
 [![Email](https://img.shields.io/badge/Email-0B2545?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B2545)](mailto:giovvaleriano@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B2545?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B2545)](https://www.linkedin.com/in/giovana-viana-valeriano-028ba236a)
 [![Instagram](https://img.shields.io/badge/Instagram-0B2545?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0B2545)](https://www.instagram.com/giovaleriano_?utm_source=qr)
