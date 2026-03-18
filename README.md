@@ -1,4 +1,4 @@
-## Oii, sou a Giovana Valeriano!
+## Oii, sou a Giovana Viana Valeriano!
 ✨Desenvolvedora apaixonada por tecnologia, aprendizado contínuo e criação de soluções simples e eficientes.  
 
 ### Sobre mim:
